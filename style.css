@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+}
+
+footer,
+.hero {
+    background-color: #1f2937;
+}
+
+header.h2,
+h1.hero,
+header a,
+p.hero {
+    color: #f9faf8;
+}
+
+h1.hero {
+    font-size: 48px;
+    font-weight: 900;
+}
+
+header.h2 {
+    font-size: 24px;
+}
+
+header a,
+p.hero {
+    font-size: 18px;
+}
+
+button,
+.call_to_action {
+    background-color: #3882f6;
+}
+
+h1.info {
+    font-size: 36px;
+    font-weight: 900;
+}
+
+.quote {
+    background-color: #e5e7eb;
+    font-size: 36px;
+    font-weight: 100;
+    font-style: italic;
+}
+
+h1.info,
+.quote {
+    color: #1f2937;
+}
